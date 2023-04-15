@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeanyilucky&label=Profile%20views&color=ff7421&style=flat" alt="Ifeanyi Lucky GitHub profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeanyilucky" alt="ifeanyilucky" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ifeanyilucas" target="blank"><img src="https://img.shields.io/twitter/follow/ifeanyilucky?logo=twitter&style=for-the-badge" alt="ifeanyilucky" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ifeanyilucas" target="blank"><img src="https://img.shields.io/twitter/follow/ifeanyilucas?logo=twitter&style=for-the-badge" alt="ifeanyilucky" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
